@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Servicenow Incidents Plugin
+  description: ""
+  x-cortex-tag: servicenow-incidents-plugin
+  x-cortex-git:
+    github:
+      repository: cremerica/ServiceNow-Incidents-Plugin
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2023-07-24T18:04:59.711356815
